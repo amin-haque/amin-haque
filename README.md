@@ -3,17 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amin-haque&label=Profile%20views&color=0e75b6&style=flat" alt="amin-haque" /> </p>
 
+<img align="right" alt="Abaqus Simulation" width="300" src="https://enteknograte.com/wp-content/uploads/2023/05/abaqus.gif">
+
+
 - 🔭 I’m currently working on **finite element analysis of crack propagation.**
 
 - 🌱 I’m currently learning **finite element method and machine learning.**
 
-- 👯 I’m looking to collaborate on **material science and FEM related projects related to biomechanical field.**
+- 👯 I’m looking to collaborate on **material science and FEM-related projects related to the biomechanical field.**
 
 - 💬 Ask me about **LAMMPS, Python and Abaqus**
 
 - 📫 How to reach me **haqueamin99@gmail.com**
 
-- ⚡ Fun fact **I've recently started going to the gym and I'm loving the bodybuilding craze.**
+- ⚡ Fun fact **I've recently started going to the gym and love this bodybuilding craze.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
